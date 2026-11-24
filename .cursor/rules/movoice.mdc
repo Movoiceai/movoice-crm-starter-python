@@ -1,0 +1,10 @@
+---
+description: How this project uses Movoice AI calling (read AGENTS.md first)
+alwaysApply: true
+---
+
+Read `AGENTS.md` in the project root before changing anything about calls or webhooks.
+
+- Keep the Movoice API key on the server only. Never put it in browser code or commit it.
+- Every webhook must have its signature checked and repeats skipped by the delivery id (`X-Movoice-Delivery`, the same as `event_id`), exactly as the existing webhook route does.
+- To add Movoice calling to another project, follow https://www.movoice.ai/setup.md step by step.
