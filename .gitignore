@@ -1,0 +1,19 @@
+# secrets
+.env
+.env.*
+!.env.example
+
+# your lead data (data/leads.sample.json stays in git)
+data/leads.json
+data/deliveries.json
+data/*.tmp
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# misc
+.DS_Store

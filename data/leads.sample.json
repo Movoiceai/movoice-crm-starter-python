@@ -1,0 +1,57 @@
+[
+  {
+    "id": "L-101",
+    "name": "Rahul Sharma",
+    "phone": "+15555550111",
+    "note": "Asked about a 2BHK site visit",
+    "status": "new",
+    "callId": null,
+    "callAttempts": 0,
+    "lastResult": null,
+    "updatedAt": null
+  },
+  {
+    "id": "L-102",
+    "name": "Priya Nair",
+    "phone": "+15555550112",
+    "note": "Downloaded the brochure",
+    "status": "new",
+    "callId": null,
+    "callAttempts": 0,
+    "lastResult": null,
+    "updatedAt": null
+  },
+  {
+    "id": "L-103",
+    "name": "Emma Lewis",
+    "phone": "+15555550113",
+    "note": "Filled the contact form",
+    "status": "new",
+    "callId": null,
+    "callAttempts": 0,
+    "lastResult": null,
+    "updatedAt": null
+  },
+  {
+    "id": "L-104",
+    "name": "Arjun Mehta",
+    "phone": "+15555550114",
+    "note": "Wants a price list",
+    "status": "new",
+    "callId": null,
+    "callAttempts": 0,
+    "lastResult": null,
+    "updatedAt": null
+  },
+  {
+    "id": "L-105",
+    "name": "Sofia Martins",
+    "phone": "+15555550115",
+    "note": "Missed our call last week",
+    "status": "new",
+    "callId": null,
+    "callAttempts": 0,
+    "lastResult": null,
+    "updatedAt": null
+  }
+]
